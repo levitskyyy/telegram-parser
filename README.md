@@ -1,7 +1,6 @@
 # TG-Parser 🤖
 
 [![Go Version](https://img.shields.io/badge/go-1.23+-blue.svg)](https://golang.org)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 A Telegram parser written in Go that monitors messages in groups and channels, analyzes them using OpenAI, and sends notifications to the administrator about requests for developing Telegram bots or websites.
 
@@ -107,17 +106,13 @@ tg-parser/
 - **OpenAI Errors**: Check API key and limits
 - **No Notifications**: Ensure bot is added to groups with read permissions
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first.
 
 ## 📞 Contacts
 
-If you have questions, write to issues or email: your-email@example.com
+If you have questions, write to issues or telegram: t.me/ew2df
 
 ---
 
